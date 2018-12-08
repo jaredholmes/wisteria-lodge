@@ -1,0 +1,1 @@
+var elSideNav=document.querySelector(".sidenav"),instanceSideNav=M.Sidenav.init(elSideNav),elSlider=document.querySelector(".slider"),instanceSlider=M.Slider.init(elSlider,{height:650,interval:4500}),elMB=document.querySelector(".materialboxed"),instanceMB=M.Materialbox.init(elMB);
